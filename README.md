@@ -30,6 +30,7 @@ Based on this we find that currently there are 225 DWD binaries and 84 DWD binar
 | 1 | SDSS J084952.47+471247.7 + SDSS J084952.87+471249.4 |Component masses of young, wide, non-magnetic white dwarf binaries in the Sloan Digital Sky Survey Data Release 7.|2014|[10.1093/mnras/stu464](https://doi.org/10.1093/mnras/stu464)| -- |
 | 11 | -- |The ELM survey. VI. Eleven new double degenerates.|2015|[10.1088/0004-637X/812/2/167](https://doi.org/10.1088/0004-637X/812/2/167)| -- |
 | 1 | WD0648+641 |The binarity of the local white dwarf population.|2017|[10.1051/0004-6361/201629978](https://doi.org/10.1051/0004-6361/201629978)| Resolved binary |
+| 3 + 1** + 66* | -- | Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae | 2017 | [10.1093/mnras/stx430](https://doi.org/10.1093/mnras/stx430) | 3 confirmed DWD binaries, 1 WD binary with uncertain companion, 66 DWD candidates |
 | 1 | SDSS J125733.63+542850.5 |A strange dwarf scenario for the formation of the peculiar double white dwarf binary SDSS J125733.63+542850.5.|2018|[10.1093/mnras/sty238](https://doi.org/10.1093/mnras/sty238)| -- |
 | 1 | PTF J053332.05+020911.6 |Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf.|2019|[10.3847/2041-8213/ab53e5](https://doi.org/10.3847/2041-8213/ab53e5)| -- |
 | 5762 | -- |Gaia Data Release 2 catalogue of extremely low-mass white dwarf candidates.|2019|[10.1093/mnras/stz1876](https://doi.org/10.1093/mnras/stz1876)| -- |
