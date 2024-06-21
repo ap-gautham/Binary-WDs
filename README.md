@@ -28,14 +28,12 @@ This list is put together with the help of references in [SIMBAD](http://simbad.
 | 1 | SDSS J084952.47+471247.7 + SDSS J084952.87+471249.4 |Component masses of young, wide, non-magnetic white dwarf binaries in the Sloan Digital Sky Survey Data Release 7.|2014|[10.1093/mnras/stu464](https://doi.org/10.1093/mnras/stu464)| -- |
 | 11 | -- |The ELM survey. VI. Eleven new double degenerates.|2015|[10.1088/0004-637X/812/2/167](https://doi.org/10.1088/0004-637X/812/2/167)| -- |
 | 1 | WD0648+641 |The binarity of the local white dwarf population.|2017|[10.1051/0004-6361/201629978](https://doi.org/10.1051/0004-6361/201629978)| Resolved binary |
-| 9999 | -- |The binary fraction, separation distribution and merger rate of white dwarfs from SPY.|2017|[10.1093/mnras/stx102](https://doi.org/10.1093/mnras/stx102)| -- |
-| 1 | -- |A strange dwarf scenario for the formation of the peculiar double white dwarf binary SDSS J125733.63+542850.5.|2018|[10.1093/mnras/sty238](https://doi.org/10.1093/mnras/sty238)| -- |
-| 4 | -- |Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf.|2019|[10.3847/2041-8213/ab53e5](https://doi.org/10.3847/2041-8213/ab53e5)| -- |
-| 5860 | -- |Gaia Data Release 2 catalogue of extremely low-mass white dwarf candidates.|2019|[10.1093/mnras/stz1876](https://doi.org/10.1093/mnras/stz1876)| -- |
-| 652 | -- |The ESO supernovae type Ia progenitor survey (SPY). The radial velocities of 643 DA white dwarfs.|2020|[10.1051/0004-6361/201629648](https://doi.org/10.1051/0004-6361/201629648)| -- |
-| 5 | -- |A 1201 s orbital period detached binary: the first double helium core white dwarf LISA verification binary.|2020|[10.3847/2041-8213/ab8228](https://doi.org/10.3847/2041-8213/ab8228)| -- |
-| 219 | -- |The ELM Survey south. I. An effective search for extremely low mass white dwarfs.|2020|[10.3847/1538-4357/ab8300](https://doi.org/10.3847/1538-4357/ab8300)| -- |
-| 9999 | -- |The quest for planets around subdwarfs and white dwarfs from Kepler space telescope fields. I. Techniques and tests of the methods.|2020|[10.1051/0004-6361/202038121](https://doi.org/10.1051/0004-6361/202038121)| -- |
+| 1 | SDSS J125733.63+542850.5 |A strange dwarf scenario for the formation of the peculiar double white dwarf binary SDSS J125733.63+542850.5.|2018|[10.1093/mnras/sty238](https://doi.org/10.1093/mnras/sty238)| -- |
+| 1 | PTF J053332.05+020911.6 |Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf.|2019|[10.3847/2041-8213/ab53e5](https://doi.org/10.3847/2041-8213/ab53e5)| -- |
+| 5762 | -- |Gaia Data Release 2 catalogue of extremely low-mass white dwarf candidates.|2019|[10.1093/mnras/stz1876](https://doi.org/10.1093/mnras/stz1876)| -- |
+| 35 | -- |The ESO supernovae type Ia progenitor survey (SPY). The radial velocities of 643 DA white dwarfs.|2020|[10.1051/0004-6361/201629648](https://doi.org/10.1051/0004-6361/201629648)| 39 Total DDs and 35 new |
+| 1 | J232230.20 + 050942.06 |A 1201 s orbital period detached binary: the first double helium core white dwarf LISA verification binary.|2020|[10.3847/2041-8213/ab8228](https://doi.org/10.3847/2041-8213/ab8228)| -- |
+| 8 | -- |The ELM Survey south. I. An effective search for extremely low mass white dwarfs.|2020|[10.3847/1538-4357/ab8300](https://doi.org/10.3847/1538-4357/ab8300)| -- |
 | 2 | WD 0311–649 and WD 1606+422 |Two new double-lined spectroscopic binary white dwarfs.|2020|[10.1093/mnras/staa466](https://doi.org/10.1093/mnras/staa466)| -- |
 | 1 | ZTF J1901+5309 |ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system.|2020|[10.1093/mnrasl/slaa044](https://doi.org/10.1093/mnrasl/slaa044)| -- |
 | 1 | ZTF J2243+5242 | An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary | 2020 | [10.3847/2041-8213/abca91](https://doi.org/10.3847/2041-8213/abca91)| -- |
