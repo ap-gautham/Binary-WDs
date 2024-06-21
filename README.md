@@ -47,6 +47,6 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 0 | -- |Eclipsing white dwarf binaries in Gaia and the Zwicky Transient Facility.|2022|[10.1093/mnras/stab3293](https://doi.org/10.1093/mnras/stab3293)| WD+MS / sdB etc |
 | 1 | WDJ 022558.21−692025.38 |An eclipsing 47 min double white dwarf binary at 400 pc.|2023|[10.1093/mnras/stad2347](https://doi.org/10.1093/mnras/stad2347)| -- |
 | 1 + 27* | -- |The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries.|2023|[10.3847/1538-4357/acd187](https://doi.org/10.3847/1538-4357/acd187)| ELM |
+| 1 | LAMOST J033847.06+413424.2 |Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2.|2023|[10.1093/mnras/stad3100](https://doi.org/10.1093/mnras/stad3100)| -- |
 | 56* | -- |The search for DA double white dwarf binary candidates from SDSS DR14.|2024|[10.1051/0004-6361/202347617](https://doi.org/10.1051/0004-6361/202347617)| DWD candidates |
 | 1 | J2102-4145 |The double low-mass white dwarf eclipsing binary system J2102-4145 and its possible evolution.|2024|[10.1051/0004-6361/202348564](https://doi.org/10.1051/0004-6361/202348564)| -- |
-| 1 | LAMOST J033847.06+413424.2 |Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2.|2023|[10.1093/mnras/stad3100](https://doi.org/10.1093/mnras/stad3100)| -- |
