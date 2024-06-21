@@ -6,15 +6,13 @@ This list is put together with the help of references in [SIMBAD](http://simbad.
 
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
-| 4 | -- |WD1953-011: a magnetic white dwarf with peculiar field structure.|2000|[10.1046/j.1365-8711.2000.03636.x](https://doi.org/10.1046/j.1365-8711.2000.03636.x)| -- |
-| 79 | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| -- |
-| 9 | -- |Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary.|2002|[10.1086/338279](https://doi.org/10.1086/338279)| -- |
-| 18 | -- |A search for binarity using Far-Ultraviolet Spectroscopic Explorer observations of DAO white dwarfs.|2005|[10.1111/j.1365-2966.2005.09647.x](https://doi.org/10.1111/j.1365-2966.2005.09647.x)| -- |
-| 673 | -- |High-resolution UVES/VLT spectra of white dwarfs observed for the ESO SN  Ia progenitor survey. III. DA white dwarfs.|2009|[10.1051/0004-6361/200912531](https://doi.org/10.1051/0004-6361/200912531)| -- |
-| 6 | -- |A new extremely low-mass white dwarf in the NLTT catalogue.|2009|[10.1051/0004-6361/200912954](https://doi.org/10.1051/0004-6361/200912954)| -- |
-| 5 | -- |The runaway white dwarf LP400-22 has a companion.|2009|[10.1088/0004-637X/695/1/L92](https://doi.org/10.1088/0004-637X/695/1/L92)| -- |
-| 5 | -- |Spectroscopic analysis of the white dwarf KUV 02196+2816: a new  unresolved DA+DB degenerate binary.|2009|[10.1088/0004-637X/696/2/1461](https://doi.org/10.1088/0004-637X/696/2/1461)| -- |
-| 5 | -- |First results from the SWARMS survey. SDSS 1257+5428: a nearby, massive  white dwarf binary with a likely neutron star or black hole companion.|2009|[10.1088/0004-637X/707/2/971](https://doi.org/10.1088/0004-637X/707/2/971)| -- |
+| 10 | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 6 Older confirmed binaries, 2 new confirmed binaries, 2 new candidates |
+| 1 | -- |Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary.|2002|[10.1086/338279](https://doi.org/10.1086/338279)| Confirmed binary |
+| 36 | -- |High-resolution UVES/VLT spectra of white dwarfs observed for the ESO SN  Ia progenitor survey. III. DA white dwarfs.|2009|[10.1051/0004-6361/200912531](https://doi.org/10.1051/0004-6361/200912531)| 36 DWD DA binaries + more DA+dM binaries |
+| 1 | NLTT 11748 |A new extremely low-mass white dwarf in the NLTT catalogue.|2009|[10.1051/0004-6361/200912954](https://doi.org/10.1051/0004-6361/200912954)| -- |
+| 0 | LP400−22 |The runaway white dwarf LP400-22 has a companion.|2009|[10.1088/0004-637X/695/1/L92](https://doi.org/10.1088/0004-637X/695/1/L92)| WD+WD/WD+NS |
+| 1 | KUV 02196+2816 |Spectroscopic analysis of the white dwarf KUV 02196+2816: a new  unresolved DA+DB degenerate binary.|2009|[10.1088/0004-637X/696/2/1461](https://doi.org/10.1088/0004-637X/696/2/1461)| -- |
+| 0 | SDSS 1257+5428 |First results from the SWARMS survey. SDSS 1257+5428: a nearby, massive  white dwarf binary with a likely neutron star or black hole companion.|2009|[10.1088/0004-637X/707/2/971](https://doi.org/10.1088/0004-637X/707/2/971)| NS/BH companion |
 | 8 | -- |Discovery of the eclipsing detached double white dwarf binary NLTT 11748.|2010|[10.1088/2041-8205/716/2/L146](https://doi.org/10.1088/2041-8205/716/2/L146)| -- |
 | 22 | -- |The (Double) white dwarf binary SDSS 1257+5428.|2010|[10.1088/0004-637X/719/2/1123](https://doi.org/10.1088/0004-637X/719/2/1123)| -- |
 | 2 | -- |A ground-based measurement of the relativistic beaming effect in a  detached double white dwarf binary.|2010|[10.1088/2041-8205/725/2/L200](https://doi.org/10.1088/2041-8205/725/2/L200)| -- |
