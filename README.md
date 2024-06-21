@@ -6,7 +6,7 @@ This list is put together with the help of references in [SIMBAD](http://simbad.
 
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
-| 10 | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 6 Older confirmed binaries, 2 new confirmed binaries, 2 new candidates |
+| 8+2* | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 6 Older confirmed binaries, 2 new confirmed binaries, 2 new candidates |
 | 1 | -- |Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary.|2002|[10.1086/338279](https://doi.org/10.1086/338279)| Confirmed binary |
 | 36 | -- |High-resolution UVES/VLT spectra of white dwarfs observed for the ESO SN  Ia progenitor survey. III. DA white dwarfs.|2009|[10.1051/0004-6361/200912531](https://doi.org/10.1051/0004-6361/200912531)| 36 DWD DA binaries + more DA+dM binaries |
 | 0 | NLTT 11748 |A new extremely low-mass white dwarf in the NLTT catalogue.|2009|[10.1051/0004-6361/200912954](https://doi.org/10.1051/0004-6361/200912954)| First discovery of the ELM, but not as a binary |
@@ -20,7 +20,7 @@ This list is put together with the help of references in [SIMBAD](http://simbad.
 | 1 | SDSSJ010657.39−100003.3 |The shortest period detached binary white dwarf system.|2011|[10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)| -- |
 | 2 | SDSS J174140.49+652638.7 and SDSS J211921.96−001825.8 |Two new tidally distorted white dwarfs.|2012|[10.1088/0004-637X/749/1/42](https://doi.org/10.1088/0004-637X/749/1/42)| -- |
 | 24 | -- |The ELM survey. IV. 24 white dwarf merger systems.|2012|[10.1088/0004-637X/751/2/141](https://doi.org/10.1088/0004-637X/751/2/141)| -- |
-| 45 | -- |Common proper-motion wide white dwarf binaries selected from the Sloan  Digital Sky Survey.|2012|[10.1088/0004-637X/757/2/170](https://doi.org/10.1088/0004-637X/757/2/170)| 9 new and total of 45 ling period DWD binaries |
+| 45 | -- |Common proper-motion wide white dwarf binaries selected from the Sloan  Digital Sky Survey.|2012|[10.1088/0004-637X/757/2/170](https://doi.org/10.1088/0004-637X/757/2/170)| 9 new and total of 45 DWD wide binaries |
 | 1 | LHS 3236 (WD1639+153) |The binary white dwarf LHS 3236.|2013|[10.1088/0004-637X/779/1/21](https://doi.org/10.1088/0004-637X/779/1/21)| -- |
 | 2 | SDSS J074853.07+302543.5 + J074852.95+302543.4 and SDSS J150813.24+394504.9 + J150813.31+394505.6 |High-field magnetic white dwarfs as the progeny of early-type stars?|2013|[10.1093/mnrasl/sls005](https://doi.org/10.1093/mnrasl/sls005)| Wide DWD binaries |
 | 1 | SDSS J074511.56+194926.5 |SDSS J074511.56+194926.5: discovery of a metal-rich and tidally distorted extremely low mass white dwarf.|2014|[10.1088/0004-637X/781/2/104](https://doi.org/10.1088/0004-637X/781/2/104)| -- |
