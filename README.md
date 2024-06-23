@@ -8,18 +8,19 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
-| 8+2* | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 6 Older confirmed binaries, 2 new confirmed binaries, 2 new candidates |
+| 3+1* | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 3 new confirmed binaries, 1 new candidates |
+| 10 | -- | Population synthesis for double white dwarfs I. Close detached systems | 2001 | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) | -- |
 | 1 | -- |Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary.|2002|[10.1086/338279](https://doi.org/10.1086/338279)| Confirmed binary |
+| 6 | WD 0136+768 , WD 1204+450 , WD 0957−666 | The mass ratio distribution of short-period double degenerate stars | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) | 3 new and 3 old |
 | 36 | -- |High-resolution UVES/VLT spectra of white dwarfs observed for the ESO SN  Ia progenitor survey. III. DA white dwarfs.|2009|[10.1051/0004-6361/200912531](https://doi.org/10.1051/0004-6361/200912531)| 36 DWD DA binaries + more DA+dM binaries |
-| 0 | NLTT 11748 |A new extremely low-mass white dwarf in the NLTT catalogue.|2009|[10.1051/0004-6361/200912954](https://doi.org/10.1051/0004-6361/200912954)| First discovery of the ELM, but not as a binary |
 | 0 | LP400−22 |The runaway white dwarf LP400-22 has a companion.|2009|[10.1088/0004-637X/695/1/L92](https://doi.org/10.1088/0004-637X/695/1/L92)| WD+WD/WD+NS |
 | 1 | KUV 02196+2816 |Spectroscopic analysis of the white dwarf KUV 02196+2816: a new  unresolved DA+DB degenerate binary.|2009|[10.1088/0004-637X/696/2/1461](https://doi.org/10.1088/0004-637X/696/2/1461)| -- |
-| 0 | SDSS 1257+5428 |First results from the SWARMS survey. SDSS 1257+5428: a nearby, massive  white dwarf binary with a likely neutron star or black hole companion.|2009|[10.1088/0004-637X/707/2/971](https://doi.org/10.1088/0004-637X/707/2/971)| NS/BH companion |
+| 1 | SDSS 1257+5428 |THE (DOUBLE) WHITE DWARF BINARY SDSS 1257+5428.|2010|[10.1088/0004-637X/719/2/1123](https://doi.org/10.1088/0004-637X/719/2/1123)| -- |
 | 1 | NLTT 11748 |Discovery of the eclipsing detached double white dwarf binary NLTT 11748.|2010|[10.1088/2041-8205/716/2/L146](https://doi.org/10.1088/2041-8205/716/2/L146)| -- |
 | 1 | SDSS 1257+5428 |The (Double) white dwarf binary SDSS 1257+5428.|2010|[10.1088/0004-637X/719/2/1123](https://doi.org/10.1088/0004-637X/719/2/1123)| -- |
 | 1 | PG 1258+593 |PG1258+593 and its common proper motion magnetic white dwarf counterpart.|2010|[10.1111/j.1365-2966.2010.16315.x](https://doi.org/10.1111/j.1365-2966.2010.16315.x)| -- |
 | 1 | GALEX J171708.5+675712 |Discovery of a bright, extremely low mass white dwarf in a close double  degenerate system.|2011|[10.1088/2041-8205/737/1/L16](https://doi.org/10.1088/2041-8205/737/1/L16)| -- |
-| 1 | SDSSJ010657.39−100003.3 |The shortest period detached binary white dwarf system.|2011|[10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)| -- |
+| 1 | SDSS J010657.39−100003.3 |The shortest period detached binary white dwarf system.|2011|[10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)| -- |
 | 2 | SDSS J174140.49+652638.7 and SDSS J211921.96−001825.8 |Two new tidally distorted white dwarfs.|2012|[10.1088/0004-637X/749/1/42](https://doi.org/10.1088/0004-637X/749/1/42)| -- |
 | 24 | -- |The ELM survey. IV. 24 white dwarf merger systems.|2012|[10.1088/0004-637X/751/2/141](https://doi.org/10.1088/0004-637X/751/2/141)| -- |
 | 45 | -- |Common proper-motion wide white dwarf binaries selected from the Sloan  Digital Sky Survey.|2012|[10.1088/0004-637X/757/2/170](https://doi.org/10.1088/0004-637X/757/2/170)| 9 new and total of 45 DWD wide binaries |
@@ -50,3 +51,31 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 1 | LAMOST J033847.06+413424.2 |Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2.|2023|[10.1093/mnras/stad3100](https://doi.org/10.1093/mnras/stad3100)| -- |
 | 56* | -- |The search for DA double white dwarf binary candidates from SDSS DR14.|2024|[10.1051/0004-6361/202347617](https://doi.org/10.1051/0004-6361/202347617)| DWD candidates |
 | 1 | J2102-4145 |The double low-mass white dwarf eclipsing binary system J2102-4145 and its possible evolution.|2024|[10.1051/0004-6361/202348564](https://doi.org/10.1051/0004-6361/202348564)| -- |
+
+
+| Name | M1 (Msun) | eMass (Msun) | Period (hrs) | ePeriod (hrs) | M2 (Msun) | Reference |
+|----|----|----|----|----|----|----|
+| WD 0101 + 048 | -- | -- | 28.8/153.6 | -- | -- | [10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x) |
+| WD 1407 - 475 | -- | -- | 8/12/24 | -- | -- | [10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x) |
+| WD 0416 + 701 | -- | -- | 7.68 | -- | -- | [10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x) |
+| PG 1115+166 | 0.7 | -- | 720 | -- | 0.7 | [10.1086/338279](https://doi.org/10.1086/338279) , [10.1046/j.1365-8711.2002.05545.x](https:://doi.org/10.1046/j.1365-8711.2002.05545.x) |
+| WD 0135-052 | 0.47 | -- | 37.344 | -- | 0.52 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| WD 0136+768 | 0.47 | -- | 33.768 | -- | 0.37 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| WD 0957-666 | 0.37 | -- | 1.464 | -- | 0.32 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| WD 1101+364 | 0.29 | -- | 3.48 | -- | 0.33 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| WD 1204+450 | 0.46 | -- | 38.472 | -- | 0.52 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| WD 1704+481.2 | 0.39 | -- | 3.48 | -- | 0.54 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| SDSS 1257+5428 | 0.15 | 0.03 | 4.555 | --  | 0.92 | [10.1088/0004-637X/719/2/1123](https://doi.org/10.1088/0004-637X/719/2/1123) |
+| WD 1022+050 | 0.35 | -- | 27.768 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) /|
+| WD 1202+608 | 0.40 | -- | 35.832 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 1241−010 | 0.31 | -- | 80.328 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 1317+453 | 0.33 | -- | 116.928 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 1713+332 | 0.38 | -- | 26.952 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 1824+040  | 0.39 | -- | 150.384 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 2032+188 | 0.36 | -- | 122.016 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| WD 2331+290 | 0.39 | -- | 4.008 | -- | -- | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) |
+| KUV 02196+2816* | 0.68 | -- | -- | -- | 0.69 | [10.1088/0004-637X/696/2/1461](https://doi.org/10.1088/0004-637X/696/2/1461)|
+| NLTT 11748 | 0.2 | -- | 5.64 | -- | 0.67 | [10.1088/2041-8205/716/2/L146](https://doi.org/10.1088/2041-8205/716/2/L146)|
+| PG 1258+593 | 0.54 | -- | -- | -- | 0.54 | [10.1111/j.1365-2966.2010.16315.x](https://doi.org/10.1111/j.1365-2966.2010.16315.x)|
+| GALEX J171708.5+675712 | 0.18 | -- | 5.907288 | -- | 0.9 | [10.1088/2041-8205/737/1/L16](https://doi.org/10.1088/2041-8205/737/1/L16)|
+| SDSS J010657.39−100003.3 | 0.17 | -- | 0.65 | -- | 0.43 | [10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)|
