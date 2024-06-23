@@ -4,10 +4,11 @@ This is a list of WD + WD (i.e DWD) binaries / binary candidates published in th
 
 This list is put together with the help of references in [SIMBAD](http://simbad.cds.unistra.fr/simbad/) database, implemented by astroquery in Python. The list may not be exhaustive.
 
-Based on this we find that currently there are 238 DWD binaries and 151 DWD binary candidates. 158 of these have full orbital solutions. 
+Based on this we find that currently there are 238 DWD binaries and 151 DWD binary candidates. 152 of these have well determined periods. 
 
 ### Summary of the compiled results
-![image](https://github.com/ap-gautham/Binary-WDs/assets/25248876/21bb9673-f07a-4f78-a956-4746701f55d7)
+
+![image](https://github.com/ap-gautham/Binary-WDs/assets/25248876/5474af56-3987-49a8-8217-cca697aa7005)
 
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
@@ -110,104 +111,104 @@ Based on this we find that currently there are 238 DWD binaries and 151 DWD bina
 | 49 | ZTF J1749+0924 $\dagger$ | 0.28 | 0.03 | 0.44 | -- | 0.40 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
 | 50 | ZTF J2320+3750 | 0.20 | 0.01 | 0.92 | -- | 0.69 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
 | 51 | ZTF J2243+5242 | 0.323 | 0.05 | | -- | 0.335 | [An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary](https://doi.org/10.3847/2041-8213/abca91) | 2020 |
-| 52 | SDSS J002228.45+003115.5 | 0.435 | -- | 23.1072 | 0.6096 | 0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 53 | SDSS J002207.65-101423.5 | 0.376 | -- | 1.9109 | 0.072 | 0.21 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 54 | SDSS J002751.75-151626.4 | 0.176 | -- | 10.1899 | 0.0034 | 0.36 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 55 | SDSS J004207.25+310329.3 | 0.176 | -- | 7.134 | 0.0043 | 0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 56 | SDSS J005046.84+214725.6 | 0.186 | -- | 8.6542 | 0.0005 | 0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 57 | SDSS J005648.23-061141.5 | 0.164 | -- | 1.0409 | 0.0005 | 0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 58 | SDSS J010657.39-100003.3 | 0.184 | -- | 0.6516 | 0.0005 | 0.34 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 59 | SDSS J011210.25+183503.7 | 0.172 | -- | 3.5275 | 0.0007 | 0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 60 | SDSS J012459.72+390804.4 | 0.407 | -- | 31.0106 | 0.1039 | 0.69 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 61 | SDSS J013058.10+532139.1 | 0.191 | -- | 4.6092 | 0.0048 | 0.4 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 62 | SDSS J014720.46+011358.5 | 0.24 | -- | 31.2811 | 0.1159 | 0.74 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 63 | SDSS J015120.67+181247.9 | 0.154 | -- | 3.5549 | 0.0002 | 0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 64 | SDSS J015213.77+074913.9 | 0.169 | -- | 7.7494 | 0.0034 | 0.58 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 65 | SDSS J021216.04+265753.6 | 0.17 | -- | 10.7779 | 0.0473 | 0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 66 | PSO J056.3211+17.8016    | 0.217 | -- | 5.6407 | 0.0031 | 0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 67 | SDSS J065133.33+284423.3 | 0.256 | -- | 0.2126 | 0.0002 | 0.5 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 68 | SDSS J073032.89+170356.9 | 0.159 | -- | 16.2154 | 1.3025 | 0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 69 | SDSS J075141.17-014120.9 | 0.187 | -- | 1.9202 | 0.067 | 0.99 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 70 | SDSS J075519.47+480034.0 | 0.405 | -- | 13.1105 | 0.1253 | 0.88 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 71 | SDSS J075552.40+490627.9 | 0.173 | -- | 1.6142 | 0.0511 | 0.86 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 72 | SDSS J075610.71+670424.6 | 0.186 | -- | 14.8274 | 0.0005 | 0.82 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 73 | SDSS J080250.13-095549.8 | 0.224 | -- | 28.2305 | 0.1092 | 1.22 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 74 | SDSS J081133.56+022556.7 | 0.18 | -- | 19.7266 | 0.0118 | 1.2 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 75 | SDSS J081544.24+230904.9 | 0.218 | -- | 25.7657 | 0.0043 | 0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 76 | SDSS J081822.33+353618.8 | 0.165 | -- | 4.3956 | 0.5064 | 0.29 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 77 | SDSS J082212.57+275307.4 | 0.191 | -- | 5.8644 | 0.0048 | 0.81 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 78 | SDSS J082239.54+304857.1 | 0.305 | -- | 0.6722 | 0.0038 | 0.58 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 79 | SDSS J082511.90+115236.4 | 0.252 | -- | 1.3966 | 0.0002 | 0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 80 | SDSS J083446.91+304959.2 | 0.317 | -- | 7.2262 | 0.0264 | 0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 81 | SDSS J083708.51+664837.1 | 0.162 | -- | 11.1187 | 0.0012 | 0.35 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 82 | SDSS J084523.03+162457.5 | 0.436 | -- | 1.8178 | 0.5194 | 0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 83 | SDSS J084910.12+044528.7 | 0.155 | -- | 1.8874 | 0.0024 | 0.63 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 84 | SDSS J091709.55+463821.7 | 0.193 | -- | 7.5943 | 0.0005 | 0.31 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 85 | SDSS J092345.59+302804.9 | 0.285 | -- | 1.0788 | 0.0118 | 0.39 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 86 | PSO J140.9596-12.3066    | 0.344 | -- | 3.575 | 0.0005 | 0.19 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 87 | SDSS J093506.93+441106.9 | 0.314 | -- | 0.3346 | 0.0122 | 0.11 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 88 | SDSS J094008.72+630427.4 | 0.182 | -- | 11.6251 | 0.0002 | 0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 89 | SDSS J100548.09+054204.4 | 0.376 | -- | 4.5118 | 0.0017 | 0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 90 | SDSS J100554.05+355014.2 | 0.168 | -- | 4.2365 | 0.0026 | 0.2 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 91 | SDSS J102153.12+054322.3 | 0.23 | -- | 29.9988 | 0.0984 | 0.33 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 92 | SDSS J103953.11+164524.2 | 0.46 | -- | 19.7928 | 0.5314 | 0.32 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 93 | SDSS J104336.27+055149.9 | 0.2 | -- | 0.7829 | 0.0221 | 0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 94 | SDSS J104607.87-015358.4 | 0.372 | -- | 9.4894 | 2.6006 | 0.19 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 95 | SDSS J104826.86-000056.7 | 0.169 | -- | 2.8951 | 0.0002 | 0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 96 | SDSS J105353.89+520030.9 | 0.23 | -- | 1.0219 | 0.0005 | 0.28 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 97 | SDSS J105435.78-212155.9 | 0.158 | -- | 2.5082 | 0.1572 | 0.43 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 98 | SDSS J105611.02+653631.5 | 0.296 | -- | 1.0442 | 0.0247 | 0.3 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 99 | SDSS J110436.73+091822.7 | 0.435 | -- | 13.2766 | 0.1205 | 0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 100 | SDSS J110815.52+151246.7 | 0.164 | -- | 3.3701 | 0.2081 | 0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 101 | SDSS J111215.82+111745.0 | 0.17 | -- | 4.1395 | 0.0002 | 0.14 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 102 | SDSS J111527.32+024622.0 | 0.446 | -- | 2.9772 | 0.001 | 0.26 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 103 | SDSS J113017.45+385550.1 | 0.335 | -- | 3.7565 | 0.0002 | 0.79 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 104 | SDSS J114155.55+385003.0 | 0.178 | -- | 6.2244 | 0.0012 | 0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 105 | SDSS J115138.37+585853.2 | 0.199 | -- | 16.0565 | 0.0168 | 0.66 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 106 | SDSS J115220.00+024814.4 | 0.397 | -- | 2.3885 | 0.0041 | 0.16 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 107 | SDSS J123316.19+160204.6 | 0.17 | -- | 3.6211 | 0.0022 | 0.85 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 108 | SDSS J123410.36-022802.8 | 0.249 | -- | 2.2051 | 0.096 | 0.12 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 109 | SDSS J123549.88+154319.3 | 0.352 | -- | 0.8818 | 0.0336 | 0.17 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 110 | SDSS J123728.64+491302.6 | 0.445 | -- | 2.5831 | 0.0576 | 0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 111 | SDSS J123800.09+194631.4 | 0.197 | -- | 5.3462 | 0.0022 | 0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 112 | SDSS J124124.29+063351.0 | 0.213 | -- | 23.0191 | 0.0067 | 0.53 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 113 | SDSS J124943.57+262604.2 | 0.173 | -- | 5.5109 | 0.0269 | 0.37 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 114 | SDSS J140118.80-081722.7 | 0.216 | -- | 2.7118 | 0.0002 | 0.79 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 115 | SDSS J142200.73+435253.1 | 0.187 | -- | 14.9107 | 0.2695 | 0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 116 | SDSS J143633.28+501026.9 | 0.254 | -- | 1.0997 | 0.0024 | 0.48 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 117 | SDSS J143948.40+100221.6 | 0.178 | -- | 18.5758 | 0.0406 | 0.71 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 118 | SDSS J144342.74+150938.6 | 0.206 | -- | 4.5732 | 0.5765 | 0.88 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 119 | SDSS J144957.15+171729.3 | 0.17 | -- | 6.978 | 0.0002 | 0.59 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 120 | SDSS J151225.69+261538.4 | 0.243 | -- | 35.6561 | 0.5635 | 0.45 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 121 | SDSS J151826.68+065813.2 | 0.217 | -- | 14.6244 | 0.001 | 0.61 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 122 | SDSS J152651.57+054335.3 | 0.167 | -- | 6.0094 | 0.0002 | 0.55 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 123 | SDSS J153844.21+025209.5 | 0.168 | -- | 7.0807 | 0.0708 | 0.56 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 124 | SDSS J154521.10+430141.8 | 0.174 | -- | 7.4234 | 0.0038 | 0.3 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 125 | SDSS J155708.48+282336.0 | 0.49 | -- | 6.941 | 0.0706 | 0.31 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 126 | SDSS J161722.51+131018.8 | 0.172 | -- | 9.8698 | 0.0206 | 0.63 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 127 | SDSS J161831.69+385415.1 | 0.155 | -- | 6.3926 | 0.036 | 0.66 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 128 | SDSS J162542.10+363219.1 | 0.194 | -- | 5.5769 | 0.9504 | 0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 129 | SDSS J163026.09+271226.5 | 0.17 | -- | 6.635 | 0.0005 | 0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 130 | SDSS J163030.58+423305.7 | 0.294 | -- | 0.6641 | 0.001 | 0.28 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 131 | SDSS J163123.67+060533.8 | 0.163 | -- | 5.9369 | 0.0986 | 0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 132 | SDSS J163826.30+350011.9 | 0.698 | -- | 21.7454 | 0.0074 | 0.45 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 133 | SDSS J170816.36+222551.0 | 0.32 | -- | 5.6964 | 0.0058 | 0.22 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 134 | SDSS J173835.47+292750.5 | 0.261 | -- | 1.1448 | 0.0026 | 0.55 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 135 | SDSS J174140.49+652638.6 | 0.17 | -- | 1.4666 | 0.0002 | 1.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 136 | SDSS J184037.78+642312.1 | 0.179 | -- | 5.6813 | 0.0012 | 0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 137 | SDSS J210308.79-002748.9 | 0.172 | -- | 4.8734 | 0.0055 | 0.71 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 138 | SDSS J211921.96-001825.8 | 0.184 | -- | 2.0832 | 0.001 | 0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 139 | SDSS J213228.36+075428.2 | 0.175 | -- | 6.0134 | 0.0005 | 0.96 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 140 | SDSS J214728.47+185959.8 | 0.157 | -- | 3.091 | 0.0005 | 0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 141 | SDSS J215159.21+161448.7 | 0.164 | -- | 14.1965 | 0.0019 | 0.48 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 142 | SDSS J223630.07+223223.8 | 0.204 | -- | 24.2431 | 0.0012 | 0.42 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 143 | SDSS J224521.28+075048.7 | 0.178 | -- | 9.5194 | 0.0245 | 0.7 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 144 | SDSS J230919.90+260346.6 | 0.176 | -- | 1.8367 | 0.0002 | 0.87 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 145 | SDSS J231757.41+060252.1 | 0.381 | -- | 20.8085 | 0.0319 | 0.38 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 146 | SDSS J233246.55+042735.3 | 0.181 | -- | 8.8301 | 0.0022 | 0.61 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 147 | SDSS J233821.50-205222.7 | 0.273 | -- | 1.8348 | 0.1709 | 0.15 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 148 | SDSS J233938.45-034734.4 | 0.188 | -- | 16.0966 | 0.0187 | 0.41 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
-| 149 | SDSS J234248.86+081137.3 | 0.408 | -- | 4.1844 | 0.0336 | 0.29 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 52 | SDSS J002228.45+003115.5 | 0.435 | -- | 23.1072 | 0.6096 | >0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 53 | SDSS J002207.65-101423.5 | 0.376 | -- | 1.9109 | 0.072 | >0.21 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 54 | SDSS J002751.75-151626.4 | 0.176 | -- | 10.1899 | 0.0034 | >0.36 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 55 | SDSS J004207.25+310329.3 | 0.176 | -- | 7.134 | 0.0043 | >0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 56 | SDSS J005046.84+214725.6 | 0.186 | -- | 8.6542 | 0.0005 | >0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 57 | SDSS J005648.23-061141.5 | 0.164 | -- | 1.0409 | 0.0005 | >0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 58 | SDSS J010657.39-100003.3 | 0.184 | -- | 0.6516 | 0.0005 | >0.34 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 59 | SDSS J011210.25+183503.7 | 0.172 | -- | 3.5275 | 0.0007 | >0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 60 | SDSS J012459.72+390804.4 | 0.407 | -- | 31.0106 | 0.1039 | >0.69 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 61 | SDSS J013058.10+532139.1 | 0.191 | -- | 4.6092 | 0.0048 | >0.4 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 62 | SDSS J014720.46+011358.5 | 0.24 | -- | 31.2811 | 0.1159 | >0.74 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 63 | SDSS J015120.67+181247.9 | 0.154 | -- | 3.5549 | 0.0002 | >0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 64 | SDSS J015213.77+074913.9 | 0.169 | -- | 7.7494 | 0.0034 | >0.58 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 65 | SDSS J021216.04+265753.6 | 0.17 | -- | 10.7779 | 0.0473 | >0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 66 | PSO J056.3211+17.8016    | 0.217 | -- | 5.6407 | 0.0031 | >0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 67 | SDSS J065133.33+284423.3 | 0.256 | -- | 0.2126 | 0.0002 | >0.5 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 68 | SDSS J073032.89+170356.9 | 0.159 | -- | 16.2154 | 1.3025 | >0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 69 | SDSS J075141.17-014120.9 | 0.187 | -- | 1.9202 | 0.067 | >0.99 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 70 | SDSS J075519.47+480034.0 | 0.405 | -- | 13.1105 | 0.1253 | >0.88 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 71 | SDSS J075552.40+490627.9 | 0.173 | -- | 1.6142 | 0.0511 | >0.86 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 72 | SDSS J075610.71+670424.6 | 0.186 | -- | 14.8274 | 0.0005 | >0.82 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 73 | SDSS J080250.13-095549.8 | 0.224 | -- | 28.2305 | 0.1092 | >1.22 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 74 | SDSS J081133.56+022556.7 | 0.18 | -- | 19.7266 | 0.0118 | >1.2 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 75 | SDSS J081544.24+230904.9 | 0.218 | -- | 25.7657 | 0.0043 | >0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 76 | SDSS J081822.33+353618.8 | 0.165 | -- | 4.3956 | 0.5064 | >0.29 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 77 | SDSS J082212.57+275307.4 | 0.191 | -- | 5.8644 | 0.0048 | >0.81 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 78 | SDSS J082239.54+304857.1 | 0.305 | -- | 0.6722 | 0.0038 | >0.58 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 79 | SDSS J082511.90+115236.4 | 0.252 | -- | 1.3966 | 0.0002 | >0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 80 | SDSS J083446.91+304959.2 | 0.317 | -- | 7.2262 | 0.0264 | >0.46 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 81 | SDSS J083708.51+664837.1 | 0.162 | -- | 11.1187 | 0.0012 | >0.35 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 82 | SDSS J084523.03+162457.5 | 0.436 | -- | 1.8178 | 0.5194 | >0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 83 | SDSS J084910.12+044528.7 | 0.155 | -- | 1.8874 | 0.0024 | >0.63 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 84 | SDSS J091709.55+463821.7 | 0.193 | -- | 7.5943 | 0.0005 | >0.31 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 85 | SDSS J092345.59+302804.9 | 0.285 | -- | 1.0788 | 0.0118 | >0.39 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 86 | PSO J140.9596-12.3066    | 0.344 | -- | 3.575 | 0.0005 | >0.19 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 87 | SDSS J093506.93+441106.9 | 0.314 | -- | 0.3346 | 0.0122 | >0.11 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 88 | SDSS J094008.72+630427.4 | 0.182 | -- | 11.6251 | 0.0002 | >0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 89 | SDSS J100548.09+054204.4 | 0.376 | -- | 4.5118 | 0.0017 | >0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 90 | SDSS J100554.05+355014.2 | 0.168 | -- | 4.2365 | 0.0026 | >0.2 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 91 | SDSS J102153.12+054322.3 | 0.23 | -- | 29.9988 | 0.0984 | >0.33 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 92 | SDSS J103953.11+164524.2 | 0.46 | -- | 19.7928 | 0.5314 | >0.32 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 93 | SDSS J104336.27+055149.9 | 0.2 | -- | 0.7829 | 0.0221 | >0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 94 | SDSS J104607.87-015358.4 | 0.372 | -- | 9.4894 | 2.6006 | >0.19 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 95 | SDSS J104826.86-000056.7 | 0.169 | -- | 2.8951 | 0.0002 | >0.62 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 96 | SDSS J105353.89+520030.9 | 0.23 | -- | 1.0219 | 0.0005 | >0.28 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 97 | SDSS J105435.78-212155.9 | 0.158 | -- | 2.5082 | 0.1572 | >0.43 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 98 | SDSS J105611.02+653631.5 | 0.296 | -- | 1.0442 | 0.0247 | >0.3 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 99 | SDSS J110436.73+091822.7 | 0.435 | -- | 13.2766 | 0.1205 | >0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 100 | SDSS J110815.52+151246.7 | 0.164 | -- | 3.3701 | 0.2081 | >0.49 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 101 | SDSS J111215.82+111745.0 | 0.17 | -- | 4.1395 | 0.0002 | >0.14 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 102 | SDSS J111527.32+024622.0 | 0.446 | -- | 2.9772 | 0.001 | >0.26 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 103 | SDSS J113017.45+385550.1 | 0.335 | -- | 3.7565 | 0.0002 | >0.79 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 104 | SDSS J114155.55+385003.0 | 0.178 | -- | 6.2244 | 0.0012 | >0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 105 | SDSS J115138.37+585853.2 | 0.199 | -- | 16.0565 | 0.0168 | >0.66 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 106 | SDSS J115220.00+024814.4 | 0.397 | -- | 2.3885 | 0.0041 | >0.16 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 107 | SDSS J123316.19+160204.6 | 0.17 | -- | 3.6211 | 0.0022 | >0.85 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 108 | SDSS J123410.36-022802.8 | 0.249 | -- | 2.2051 | 0.096 | >0.12 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 109 | SDSS J123549.88+154319.3 | 0.352 | -- | 0.8818 | 0.0336 | >0.17 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 110 | SDSS J123728.64+491302.6 | 0.445 | -- | 2.5831 | 0.0576 | >0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 111 | SDSS J123800.09+194631.4 | 0.197 | -- | 5.3462 | 0.0022 | >0.73 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 112 | SDSS J124124.29+063351.0 | 0.213 | -- | 23.0191 | 0.0067 | >0.53 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 113 | SDSS J124943.57+262604.2 | 0.173 | -- | 5.5109 | 0.0269 | >0.37 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 114 | SDSS J140118.80-081722.7 | 0.216 | -- | 2.7118 | 0.0002 | >0.79 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 115 | SDSS J142200.73+435253.1 | 0.187 | -- | 14.9107 | 0.2695 | >0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 116 | SDSS J143633.28+501026.9 | 0.254 | -- | 1.0997 | 0.0024 | >0.48 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 117 | SDSS J143948.40+100221.6 | 0.178 | -- | 18.5758 | 0.0406 | >0.71 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 118 | SDSS J144342.74+150938.6 | 0.206 | -- | 4.5732 | 0.5765 | >0.88 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 119 | SDSS J144957.15+171729.3 | 0.17 | -- | 6.978 | 0.0002 | >0.59 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 120 | SDSS J151225.69+261538.4 | 0.243 | -- | 35.6561 | 0.5635 | >0.45 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 121 | SDSS J151826.68+065813.2 | 0.217 | -- | 14.6244 | 0.001 | >0.61 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 122 | SDSS J152651.57+054335.3 | 0.167 | -- | 6.0094 | 0.0002 | >0.55 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 123 | SDSS J153844.21+025209.5 | 0.168 | -- | 7.0807 | 0.0708 | >0.56 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 124 | SDSS J154521.10+430141.8 | 0.174 | -- | 7.4234 | 0.0038 | >0.3 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 125 | SDSS J155708.48+282336.0 | 0.49 | -- | 6.941 | 0.0706 | >0.31 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 126 | SDSS J161722.51+131018.8 | 0.172 | -- | 9.8698 | 0.0206 | >0.63 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 127 | SDSS J161831.69+385415.1 | 0.155 | -- | 6.3926 | 0.036 | >0.66 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 128 | SDSS J162542.10+363219.1 | 0.194 | -- | 5.5769 | 0.9504 | >0.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 129 | SDSS J163026.09+271226.5 | 0.17 | -- | 6.635 | 0.0005 | >0.52 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 130 | SDSS J163030.58+423305.7 | 0.294 | -- | 0.6641 | 0.001 | >0.28 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 131 | SDSS J163123.67+060533.8 | 0.163 | -- | 5.9369 | 0.0986 | >0.47 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 132 | SDSS J163826.30+350011.9 | 0.698 | -- | 21.7454 | 0.0074 | >0.45 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 133 | SDSS J170816.36+222551.0 | 0.32 | -- | 5.6964 | 0.0058 | >0.22 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 134 | SDSS J173835.47+292750.5 | 0.261 | -- | 1.1448 | 0.0026 | >0.55 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 135 | SDSS J174140.49+652638.6 | 0.17 | -- | 1.4666 | 0.0002 | >1.07 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 136 | SDSS J184037.78+642312.1 | 0.179 | -- | 5.6813 | 0.0012 | >0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 137 | SDSS J210308.79-002748.9 | 0.172 | -- | 4.8734 | 0.0055 | >0.71 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 138 | SDSS J211921.96-001825.8 | 0.184 | -- | 2.0832 | 0.001 | >0.8 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 139 | SDSS J213228.36+075428.2 | 0.175 | -- | 6.0134 | 0.0005 | >0.96 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 140 | SDSS J214728.47+185959.8 | 0.157 | -- | 3.091 | 0.0005 | >0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 141 | SDSS J215159.21+161448.7 | 0.164 | -- | 14.1965 | 0.0019 | >0.48 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 142 | SDSS J223630.07+223223.8 | 0.204 | -- | 24.2431 | 0.0012 | >0.42 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 143 | SDSS J224521.28+075048.7 | 0.178 | -- | 9.5194 | 0.0245 | >0.7 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 144 | SDSS J230919.90+260346.6 | 0.176 | -- | 1.8367 | 0.0002 | >0.87 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 145 | SDSS J231757.41+060252.1 | 0.381 | -- | 20.8085 | 0.0319 | >0.38 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 146 | SDSS J233246.55+042735.3 | 0.181 | -- | 8.8301 | 0.0022 | >0.61 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 147 | SDSS J233821.50-205222.7 | 0.273 | -- | 1.8348 | 0.1709 | >0.15 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 148 | SDSS J233938.45-034734.4 | 0.188 | -- | 16.0966 | 0.0187 | >0.41 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
+| 149 | SDSS J234248.86+081137.3 | 0.408 | -- | 4.1844 | 0.0336 | >0.29 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
 | 150 | WD 0311–649 | 0.39 | -- | 17.76 | -- | 0.55  | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
 | 151 | WD 1606+422 | 0.45 | -- | 20.16 | -- | 0.59 | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
 | 152 | ZTF J1901+5309 $\dagger$ | 0.35 | -- | 0.6767 | -- | -- | [ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system](https://doi.org/10.1093/mnrasl/slaa044) | 2020 |
