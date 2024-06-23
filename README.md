@@ -86,7 +86,7 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 31 | J123549.86+154319.0 | 0.363 | -- | 0.8512 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 32 | J171125.53+272405.1 | 0.672 | -- | 1.248 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 33 | J234902.80+355301.0 | 0.386 | -- | 4.1699 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
-| 34 | PTF J053332.05+020911.6. | 0.17 | 0.03 | 0.3433 | -- | 0.652 | [Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf](https://doi.org/10.3847/2041-8213/ab53e5) | 
+| 34 | PTF J053332.05+020911.6. | 0.17 | 0.03 | 0.3433 | -- | 0.652 | [Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf](https://doi.org/10.3847/2041-8213/ab53e5) | 2019 |
 | 35 | J232230.20 + 050942.06 | 0.27 | 0.04 | 0.3336 | -- | 0.24 | [A 1201 s orbital period detached binary: the first double helium core white dwarf LISA verification binary](https://doi.org/10.3847/2041-8213/ab8228) | 2020 |
 | 36 | WD 0311–649 | 0.39 | -- | 17.76 | -- | 0.55  | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
 | 37 | WD 1606+422 | 0.45 | -- | 20.16 | -- | 0.59 | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
