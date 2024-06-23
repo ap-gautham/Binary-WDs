@@ -4,7 +4,7 @@ This is a list of WD + WD (i.e DWD) binaries / binary candidates published in th
 
 This list is put together with the help of references in [SIMBAD](http://simbad.cds.unistra.fr/simbad/) database, implemented by astroquery in Python. The list may not be exhaustive.
 
-Based on this we find that currently there are 228 DWD binaries and 151 DWD binary candidates. Of these, 81 are ELMs.  
+Based on this we find that currently there are 238 DWD binaries and 151 DWD binary candidates. 158 of these have full orbital solutions. 
 
 ### Summary of the compiled results
 ![image](https://github.com/ap-gautham/Binary-WDs/assets/25248876/21bb9673-f07a-4f78-a956-4746701f55d7)
