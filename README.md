@@ -90,31 +90,31 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 35 | J232230.20 + 050942.06 | 0.27 | 0.04 | 0.3336 | -- | 0.24 | [A 1201 s orbital period detached binary: the first double helium core white dwarf LISA verification binary](https://doi.org/10.3847/2041-8213/ab8228) |
 | 36 | WD 0311–649 | 0.39 | -- | 17.76 | -- | 0.55  | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) |
 | 37 | WD 1606+422 | 0.45 | -- | 20.16 | -- | 0.59 | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) |
-|    | WD 1242–105 | 0.56 | 0.03 | 2.85 | -- | 0.39 | [A NEW MERGING DOUBLE DEGENERATE BINARY IN THE SOLAR NEIGHBORHOOD ](http://doi.org/10.1088/0004-6256/149/5/176) |
-|    | HE0320−1917 | 0.29 | -- | 23.24 | -- | -- | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD 0326−273 | 0.51 | -- | 45.12 | -- | -- | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD 0957-666 | 0.37 | -- | 1.44 | -- | 0.32 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD1013-010 | 0.44 | -- | 10.32 | -- | >0.38 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD1210+140 | 0.23 | -- | 15.36 | -- | >0.38 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD1241-010 | 0.31 | -- | 80.4 | -- | >0.37 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD1349+144 | 0.44 | -- | 50.88 | -- | 0.44 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | HE1414-0848 | 0.71 | -- | 12.48 | -- | 0.55 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | WD 1428+373 | 0.35 | -- | 27.36 | -- | >0.23 | [Six detached white-dwarf close binaries](https://doi.org/10.1111/j.1365-2966.2005.08943.x) |
-|    | HE1511-0448 | 0.48 | -- | 77.28 | -- | >0.46 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | HE2209-1444 | 0.58 | -- | 6.72 | -- | 0.58 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
-|    | ZTF J1901+5309 $\dagger$ | 0.35 | -- | 0.6767 | -- | -- | [ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system](https://doi.org/10.1093/mnrasl/slaa044) |
-|    | ZTF J2243+5242 | 0.323 | 0.05 | | -- | 0.335 | [An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary](https://doi.org/10.3847/2041-8213/abca91) |
-|    | ZTF J1539 + 5027 $\dagger$ | 0.61 | 0.02 | 0.115 | -- | 0.21 | [General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system](https://doi.org/10.1038/s41586-019-1403-0) | 
-|    | ZTF J0538+1953 $\dagger$ | 0.32 | 0.05 | 0.24 | -- | 0.45 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
-|    | ZTF J2029+1534 $\dagger$ | 0.30 | 0.03 | 0.3483 | -- | 0.32 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
-|    | ZTF J0722−1839 $\dagger$ | 0.33 | 0.04 | 0.395 | -- | 0.38 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
-|    | ZTF J1749+0924 $\dagger$ | 0.28 | 0.03 | 0.44 | -- | 0.40 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
-|    | ZTF J2320+3750 | 0.20 | 0.01 | 0.92 | -- | 0.69 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
-|    | SDSS J133725.26+395237.7 | 0.51 | -- | 1.65 | -- | 0.32 | [A 99 minute double-lined white dwarf binary from SDSS-V](https://doi.org/10.3847/1538-4357/ac2145) |
-|    | PG 1632+177 | 0.392 | 0.06| 49.2 | -- | 0.526 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) |
-|    | WD 1534+503 | 0.392 | 0.06| 17.04 | -- | 0.617 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) |
-|    | WD J022558.21−692025.38 | 0.40 | 0.04 | 0.7833 | -- | 0.28 | [An eclipsing 47 min double white dwarf binary at 400 pc](https://doi.org/10.1093/mnras/stad2347) |
-|    | J210220.456−414501.736 | 0.32 | -- | 2.4 | -- | 0.39 | [The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries](https://doi.org/10.3847/1538-4357/acd187) |
-|    | J033847.06+413424.2 | 0.22 | -- | 3.0075 | -- | >0.6 | [Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2](https://doi.org/10.1093/mnras/stad3100) |
+| 38 | WD 1242–105 | 0.56 | 0.03 | 2.85 | -- | 0.39 | [A NEW MERGING DOUBLE DEGENERATE BINARY IN THE SOLAR NEIGHBORHOOD ](http://doi.org/10.1088/0004-6256/149/5/176) |
+| 39 | HE0320−1917 | 0.29 | -- | 23.24 | -- | -- | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 40 | WD 0326−273 | 0.51 | -- | 45.12 | -- | -- | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 41 | WD 0957-666 | 0.37 | -- | 1.44 | -- | 0.32 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 42 | WD1013-010 | 0.44 | -- | 10.32 | -- | >0.38 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 43 | WD1210+140 | 0.23 | -- | 15.36 | -- | >0.38 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 44 | WD1241-010 | 0.31 | -- | 80.4 | -- | >0.37 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 45 | WD1349+144 | 0.44 | -- | 50.88 | -- | 0.44 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 46 | HE1414-0848 | 0.71 | -- | 12.48 | -- | 0.55 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 47 | WD 1428+373 | 0.35 | -- | 27.36 | -- | >0.23 | [Six detached white-dwarf close binaries](https://doi.org/10.1111/j.1365-2966.2005.08943.x) |
+| 48 | HE1511-0448 | 0.48 | -- | 77.28 | -- | >0.46 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 49 | HE2209-1444 | 0.58 | -- | 6.72 | -- | 0.58 | [Binaries discovered by the SPY project](https://doi.org/10.1051/0004-6361:20053174) |
+| 50 | ZTF J1901+5309 $\dagger$ | 0.35 | -- | 0.6767 | -- | -- | [ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system](https://doi.org/10.1093/mnrasl/slaa044) |
+| 51 | ZTF J2243+5242 | 0.323 | 0.05 | | -- | 0.335 | [An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary](https://doi.org/10.3847/2041-8213/abca91) |
+| 52 | ZTF J1539 + 5027 $\dagger$ | 0.61 | 0.02 | 0.115 | -- | 0.21 | [General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system](https://doi.org/10.1038/s41586-019-1403-0) | 
+| 53 | ZTF J0538+1953 $\dagger$ | 0.32 | 0.05 | 0.24 | -- | 0.45 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
+| 54 | ZTF J2029+1534 $\dagger$ | 0.30 | 0.03 | 0.3483 | -- | 0.32 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
+| 55 | ZTF J0722−1839 $\dagger$ | 0.33 | 0.04 | 0.395 | -- | 0.38 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
+| 56 | ZTF J1749+0924 $\dagger$ | 0.28 | 0.03 | 0.44 | -- | 0.40 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
+| 57 | ZTF J2320+3750 | 0.20 | 0.01 | 0.92 | -- | 0.69 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) |
+| 58 | SDSS J133725.26+395237.7 | 0.51 | -- | 1.65 | -- | 0.32 | [A 99 minute double-lined white dwarf binary from SDSS-V](https://doi.org/10.3847/1538-4357/ac2145) |
+| 59 | PG 1632+177 | 0.392 | 0.06| 49.2 | -- | 0.526 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) |
+| 60 | WD 1534+503 | 0.392 | 0.06| 17.04 | -- | 0.617 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) |
+| 61 | WD J022558.21−692025.38 | 0.40 | 0.04 | 0.7833 | -- | 0.28 | [An eclipsing 47 min double white dwarf binary at 400 pc](https://doi.org/10.1093/mnras/stad2347) |
+| 62 | J210220.456−414501.736 | 0.32 | -- | 2.4 | -- | 0.39 | [The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries](https://doi.org/10.3847/1538-4357/acd187) |
+| 63 | J033847.06+413424.2 | 0.22 | -- | 3.0075 | -- | >0.6 | [Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2](https://doi.org/10.1093/mnras/stad3100) |
 
 
