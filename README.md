@@ -22,14 +22,12 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 1 | GALEX J171708.5+675712 |Discovery of a bright, extremely low mass white dwarf in a close double  degenerate system.|2011|[10.1088/2041-8205/737/1/L16](https://doi.org/10.1088/2041-8205/737/1/L16)| -- |
 | 1 | SDSS J010657.39−100003.3 |The shortest period detached binary white dwarf system.|2011|[10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)| -- |
 | 2 | SDSS J174140.49+652638.7 and SDSS J211921.96−001825.8 |Two new tidally distorted white dwarfs.|2012|[10.1088/0004-637X/749/1/42](https://doi.org/10.1088/0004-637X/749/1/42)| -- |
-| 24 | -- |The ELM survey. IV. 24 white dwarf merger systems.|2012|[10.1088/0004-637X/751/2/141](https://doi.org/10.1088/0004-637X/751/2/141)| -- |
-| 45 | -- |Common proper-motion wide white dwarf binaries selected from the Sloan  Digital Sky Survey.|2012|[10.1088/0004-637X/757/2/170](https://doi.org/10.1088/0004-637X/757/2/170)| 9 new and total of 45 DWD wide binaries |
+| 45* | -- |Common proper-motion wide white dwarf binaries selected from the Sloan  Digital Sky Survey.|2012|[10.1088/0004-637X/757/2/170](https://doi.org/10.1088/0004-637X/757/2/170)| 9 new and total of 45 DWD wide binaries |
 | 1 | LHS 3236 (WD1639+153) |The binary white dwarf LHS 3236.|2013|[10.1088/0004-637X/779/1/21](https://doi.org/10.1088/0004-637X/779/1/21)| -- |
-| 2 | SDSS J074853.07+302543.5 + J074852.95+302543.4 and SDSS J150813.24+394504.9 + J150813.31+394505.6 |High-field magnetic white dwarfs as the progeny of early-type stars?|2013|[10.1093/mnrasl/sls005](https://doi.org/10.1093/mnrasl/sls005)| Wide DWD binaries |
+| 2* | SDSS J074853.07+302543.5 + J074852.95+302543.4 and SDSS J150813.24+394504.9 + J150813.31+394505.6 |High-field magnetic white dwarfs as the progeny of early-type stars?|2013|[10.1093/mnrasl/sls005](https://doi.org/10.1093/mnrasl/sls005)| Wide DWD binaries |
 | 1 | SDSS J074511.56+194926.5 |SDSS J074511.56+194926.5: discovery of a metal-rich and tidally distorted extremely low mass white dwarf.|2014|[10.1088/0004-637X/781/2/104](https://doi.org/10.1088/0004-637X/781/2/104)| -- |
 | 1 | CSS 41177 |Precise parameters for both white dwarfs in the eclipsing binary CSS 41177.|2014|[10.1093/mnras/stt2453](https://doi.org/10.1093/mnras/stt2453)| -- |
 | 1 | SDSS J084952.47+471247.7 + SDSS J084952.87+471249.4 |Component masses of young, wide, non-magnetic white dwarf binaries in the Sloan Digital Sky Survey Data Release 7.|2014|[10.1093/mnras/stu464](https://doi.org/10.1093/mnras/stu464)| -- |
-| 11 | -- |The ELM survey. VI. Eleven new double degenerates.|2015|[10.1088/0004-637X/812/2/167](https://doi.org/10.1088/0004-637X/812/2/167)| -- |
 | 1 | WD0648+641 |The binarity of the local white dwarf population.|2017|[10.1051/0004-6361/201629978](https://doi.org/10.1051/0004-6361/201629978)| Resolved binary |
 | 3 + 1** + 66* | -- | Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae | 2017 | [10.1093/mnras/stx430](https://doi.org/10.1093/mnras/stx430) | 3 confirmed DWD binaries, 1 WD binary with uncertain companion, 66 DWD candidates |
 | 1 | SDSS J125733.63+542850.5 |A strange dwarf scenario for the formation of the peculiar double white dwarf binary SDSS J125733.63+542850.5.|2018|[10.1093/mnras/sty238](https://doi.org/10.1093/mnras/sty238)| -- |
@@ -41,10 +39,10 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 2 | WD 0311–649 and WD 1606+422 |Two new double-lined spectroscopic binary white dwarfs.|2020|[10.1093/mnras/staa466](https://doi.org/10.1093/mnras/staa466)| -- |
 | 1 | ZTF J1901+5309 |ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system.|2020|[10.1093/mnrasl/slaa044](https://doi.org/10.1093/mnrasl/slaa044)| -- |
 | 1 | ZTF J2243+5242 | An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary | 2020 | [10.3847/2041-8213/abca91](https://doi.org/10.3847/2041-8213/abca91)| -- |
+| 98 | -- |The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries. |2020|[10.3847/1538-4357/ab63cd](https://doi.org/10.3847/1538-4357/ab63cd)| -- |
 | 8 | -- | A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources  | 2020 | [10.3847/1538-4357/abc261](https://doi.org/10.3847/1538-4357/abc261)| -- |
 | 1 | SDSS J133725.26+395237.7 |A 99 minute double-lined white dwarf binary from SDSS-V.|2021|[10.3847/1538-4357/ac2145](https://doi.org/10.3847/1538-4357/ac2145)| -- |
 | 4 | -- |Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin.|2021|[10.1093/mnras/stab439](https://doi.org/10.1093/mnras/stab439)| -- |
-| 7 | -- |The ELM Survey. IX. A Complete Sample of Low-mass White Dwarf Binaries in the SDSS Footprint.|2022|[10.3847/1538-4357/ac72ac](https://doi.org/10.3847/1538-4357/ac72ac)| -- |
 | 0 | -- |Eclipsing white dwarf binaries in Gaia and the Zwicky Transient Facility.|2022|[10.1093/mnras/stab3293](https://doi.org/10.1093/mnras/stab3293)| WD+MS / sdB etc |
 | 1 | WDJ 022558.21−692025.38 |An eclipsing 47 min double white dwarf binary at 400 pc.|2023|[10.1093/mnras/stad2347](https://doi.org/10.1093/mnras/stad2347)| -- |
 | 1 + 27* | -- |The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries.|2023|[10.3847/1538-4357/acd187](https://doi.org/10.3847/1538-4357/acd187)| ELM |
@@ -79,3 +77,8 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | PG 1258+593 | 0.54 | -- | -- | -- | 0.54 | [10.1111/j.1365-2966.2010.16315.x](https://doi.org/10.1111/j.1365-2966.2010.16315.x)|
 | GALEX J171708.5+675712 | 0.18 | -- | 5.907288 | -- | 0.9 | [10.1088/2041-8205/737/1/L16](https://doi.org/10.1088/2041-8205/737/1/L16)|
 | SDSS J010657.39−100003.3 | 0.17 | -- | 0.65 | -- | 0.43 | [10.1111/j.1745-3933.2011.01044.x](https://doi.org/10.1111/j.1745-3933.2011.01044.x)|
+| SDSS J174140.49+652638.7 | 0.16 | -- | 1.4666 | 0.0001 | -- | [10.1088/0004-637X/749/1/42](https://doi.org/10.1088/0004-637X/749/1/42)|
+| SDSS J211921.96−001825.8 | 0.17 | -- | 2.0825 | 0.0010 | -- | [10.1088/0004-637X/749/1/42](https://doi.org/10.1088/0004-637X/749/1/42)|
+| WD1639+153 | 0.91 | -- | 35302.8 | -- | 0.93 | [10.1088/0004-637X/779/1/21](https://doi.org/10.1088/0004-637X/779/1/21)|
+| SDSS J074511.56+194926.5 | 0.164 | 0.003 | 2.6975 | -- | [10.1088/0004-637X/781/2/104](https://doi.org/10.1088/0004-637X/781/2/104) |
+|
