@@ -6,6 +6,9 @@ This list is put together with the help of references in [SIMBAD](http://simbad.
 
 Based on this we find that currently there are 228 DWD binaries and 151 DWD binary candidates. Of these, 81 are ELMs.  
 
+### Summary of the compiled results
+![image](https://github.com/ap-gautham/Binary-WDs/assets/25248876/21bb9673-f07a-4f78-a956-4746701f55d7)
+
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
 | 1 | WD 0135-052 | DISCOVERY OF A CLOSE DETACHED BINARY DA WHITE DWARF SYSTEM | 1988 | [10.1086/166888](https://doi.org/10.1086/166888) | |
@@ -214,3 +217,4 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 156 | WD J022558.21−692025.38 | 0.40 | 0.04 | 0.7833 | -- | 0.28 | [An eclipsing 47 min double white dwarf binary at 400 pc](https://doi.org/10.1093/mnras/stad2347) | 2023 |
 | 157 | J033847.06+413424.2 | 0.22 | -- | 3.0075 | -- | >0.6 | [Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2](https://doi.org/10.1093/mnras/stad3100) | 2023 |
 | 158 | J210220.456−414501.736 | 0.32 | -- | 2.4 | -- | 0.39 | [The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries](https://doi.org/10.3847/1538-4357/acd187) | 2023 |
+
