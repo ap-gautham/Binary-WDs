@@ -9,7 +9,7 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | Number of DWD binaries | List of binaries | Title | Year | DOI | Notes |
 |----|----|-----|-----|-----|----|
 | 3+1* | -- |Radial velocity measurements of white dwarfs.|2000|[10.1046/j.1365-8711.2000.03840.x](https://doi.org/10.1046/j.1365-8711.2000.03840.x)| 3 new confirmed binaries, 1 new candidates |
-| 10 | -- | Population synthesis for double white dwarfs I. Close detached systems | 2001 | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) | -- |
+| 5 | -- | Population synthesis for double white dwarfs I. Close detached systems | 2001 | [10.1051/0004-6361:20000147](https://doi.org/10.1051/0004-6361:20000147 ) | -- |
 | 1 | -- |Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary.|2002|[10.1086/338279](https://doi.org/10.1086/338279)| Confirmed binary |
 | 6 | WD 0136+768 , WD 1204+450 , WD 0957−666 | The mass ratio distribution of short-period double degenerate stars | 2002 | [10.1046/j.1365-8711.2002.05368.x](https://doi.org/10.1046/j.1365-8711.2002.05368.x) | 3 new and 3 old |
 | 5 | -- | Binaries discovered by the SPY project | 2005 | [10.1051/0004-6361:20053174](https://doi.org/10.1051/0004-6361:20053174) | 5 new and more older ones |
@@ -58,10 +58,10 @@ Based on this we find that currently there are 228 DWD binaries and 151 DWD bina
 | 2 | WD 1407 - 475 | -- | -- | 8/12/24 | -- | -- | [Radial velocity measurements of white dwarfs](https://doi.org/10.1046/j.1365-8711.2000.03840.x) |
 | 3 | WD 0416 + 701 | -- | -- | 7.68 | -- | -- | [Radial velocity measurements of white dwarfs](https://doi.org/10.1046/j.1365-8711.2000.03840.x) |
 | 4 | PG 1115+166 | 0.7 | -- | 720 | -- | 0.7 | [Spectroscopic analysis of the DAB white dwarf PG 1115+166: an unresolved DA+DB degenerate binary](https://doi.org/10.1086/338279) , [10.1046/j.1365-8711.2002.05545.x](https:://doi.org/10.1046/j.1365-8711.2002.05545.x) |
-| 5 | WD 0135-052 | 0.47 | -- | 37.344 | -- | 0.52 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| 5 | WD 0135-052 | 0.47 | -- | 37.344 | -- | 0.52 | [DISCOVERY OF A CLOSE DETACHED BINARY DA WHITE DWARF SYSTEM](https://doi.org/10.1086/166888) |
 | 6 | WD 0136+768 | 0.47 | -- | 33.768 | -- | 0.37 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
 | 7 | WD 0957-666 | 0.37 | -- | 1.464 | -- | 0.32 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
-| 9 | WD 1101+364 | 0.29 | -- | 3.48 | -- | 0.33 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
+| 9 | WD 1101+364 | 0.29 | -- | 3.48 | -- | 0.33 | [The discovery of a short-period double-degenerate binary star](https://doi.org/10.1093/mnras/275.1.L1) |
 | 10 | WD 1204+450 | 0.46 | -- | 38.472 | -- | 0.52 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
 | 11 | WD 1704+481.2 | 0.39 | -- | 3.48 | -- | 0.54 | [The mass ratio distribution of short-period double degenerate stars](https://doi.org/10.1046/j.1365-8711.2002.05368.x) |
 | 12 | SDSS 1257+5428 | 0.15 | 0.03 | 4.555 | --  | 0.92 | [The (Double) white dwarf binary SDSS 1257+5428](https://doi.org/10.1088/0004-637X/719/2/1123) |
