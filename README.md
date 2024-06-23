@@ -96,19 +96,19 @@ Based on this we find that currently there are 238 DWD binaries and 151 DWD bina
 | 34 | GALEX J171708.5+675712 | 0.18 | -- | 5.907288 | -- | 0.9 | [Discovery of a bright, extremely low mass white dwarf in a close double  degenerate system](https://doi.org/10.1088/2041-8205/737/1/L16)| 2011 |
 | 35 | SDSS J010657.39−100003.3 | 0.17 | -- | 0.65 | -- | 0.43 | [The shortest period detached binary white dwarf system](https://doi.org/10.1111/j.1745-3933.2011.01044.x)| 2011 |
 | 36 | LHS 3236 (WD1639+153) | 0.91 | -- | 35302.8 | -- | 0.93 | [The binary white dwarf LHS 3236](https://doi.org/10.1088/0004-637X/779/1/21)| 2013 |
-| 37 | CSS 41177 (J1005+2249) $\dagger$ | 0.378 | 0.002 | 2.784 | -- | 0.316 | [Precise parameters for both white dwarfs in the eclipsing binary CSS 41177](https://doi.org/10.1093/mnras/stt2453) | 2014 |
+| 37 | CSS 41177 (J1005+2249) $^\dagger$ | 0.378 | 0.002 | 2.784 | -- | 0.316 | [Precise parameters for both white dwarfs in the eclipsing binary CSS 41177](https://doi.org/10.1093/mnras/stt2453) | 2014 |
 | 38 | SDSS J074511.56+194926.5 | 0.164 | 0.003 | 2.6975 | -- | -- | [SDSS J074511.56+194926.5: discovery of a metal-rich and tidally distorted extremely low mass white dwarf](https://doi.org/10.1088/0004-637X/781/2/104) | 2014 |
 | 39 | WD 1242–105 | 0.56 | 0.03 | 2.85 | -- | 0.39 | [A NEW MERGING DOUBLE DEGENERATE BINARY IN THE SOLAR NEIGHBORHOOD ](http://doi.org/10.1088/0004-6256/149/5/176) | 2015 |
 | 40 | J123549.86+154319.0 | 0.363 | -- | 0.8512 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 41 | J171125.53+272405.1 | 0.672 | -- | 1.248 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 42 | J234902.80+355301.0 | 0.386 | -- | 4.1699 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
-| 43 | ZTF J1539 + 5027 $\dagger$ | 0.61 | 0.02 | 0.115 | -- | 0.21 | [General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system](https://doi.org/10.1038/s41586-019-1403-0) | 2019 | 
+| 43 | ZTF J1539 + 5027 $^\dagger$ | 0.61 | 0.02 | 0.115 | -- | 0.21 | [General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system](https://doi.org/10.1038/s41586-019-1403-0) | 2019 | 
 | 44 | PTF J053332.05+020911.6. | 0.17 | 0.03 | 0.3433 | -- | 0.652 | [Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf](https://doi.org/10.3847/2041-8213/ab53e5) | 2019 |
 | 45 | J232230.20 + 050942.06 | 0.27 | 0.04 | 0.3336 | -- | 0.24 | [A 1201 s orbital period detached binary: the first double helium core white dwarf LISA verification binary](https://doi.org/10.3847/2041-8213/ab8228) | 2020 |
-| 46 | ZTF J0538+1953 $\dagger$ | 0.32 | 0.05 | 0.24 | -- | 0.45 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
-| 47 | ZTF J2029+1534 $\dagger$ | 0.30 | 0.03 | 0.3483 | -- | 0.32 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
-| 48 | ZTF J0722−1839 $\dagger$ | 0.33 | 0.04 | 0.395 | -- | 0.38 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
-| 49 | ZTF J1749+0924 $\dagger$ | 0.28 | 0.03 | 0.44 | -- | 0.40 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
+| 46 | ZTF J0538+1953 $^\dagger$ | 0.32 | 0.05 | 0.24 | -- | 0.45 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
+| 47 | ZTF J2029+1534 $^\dagger$ | 0.30 | 0.03 | 0.3483 | -- | 0.32 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
+| 48 | ZTF J0722−1839 $^\dagger$ | 0.33 | 0.04 | 0.395 | -- | 0.38 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
+| 49 | ZTF J1749+0924 $^\dagger$ | 0.28 | 0.03 | 0.44 | -- | 0.40 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
 | 50 | ZTF J2320+3750 | 0.20 | 0.01 | 0.92 | -- | 0.69 | [A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources](https://doi.org/10.3847/1538-4357/abc261) | 2020 |
 | 51 | ZTF J2243+5242 | 0.323 | 0.05 | | -- | 0.335 | [An 8.8 Minute Orbital Period Eclipsing Detached Double White Dwarf Binary](https://doi.org/10.3847/2041-8213/abca91) | 2020 |
 | 52 | SDSS J002228.45+003115.5 | 0.435 | -- | 23.1072 | 0.6096 | >0.27 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
@@ -211,11 +211,11 @@ Based on this we find that currently there are 238 DWD binaries and 151 DWD bina
 | 149 | SDSS J234248.86+081137.3 | 0.408 | -- | 4.1844 | 0.0336 | >0.29 | [The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries.](https://doi.org/10.3847/1538-4357/ab63cd) | 2020 |
 | 150 | WD 0311–649 | 0.39 | -- | 17.76 | -- | 0.55  | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
 | 151 | WD 1606+422 | 0.45 | -- | 20.16 | -- | 0.59 | [Two new double-lined spectroscopic binary white dwarfs](https://doi.org/10.1093/mnras/staa466) | 2020 |
-| 152 | ZTF J1901+5309 $\dagger$ | 0.35 | -- | 0.6767 | -- | -- | [ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system](https://doi.org/10.1093/mnrasl/slaa044) | 2020 |
-| 153 | SDSS J133725.26+395237.7 | 0.51 | -- | 1.65 | -- | 0.32 | [A 99 minute double-lined white dwarf binary from SDSS-V](https://doi.org/10.3847/1538-4357/ac2145) | 2021 |
-| 154 | PG 1632+177 | 0.392 | 0.06| 49.2 | -- | 0.526 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) | 2021 |
-| 155 | WD 1534+503 | 0.392 | 0.06| 17.04 | -- | 0.617 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) | 2021 |
+| 152 | ZTF J1901+5309 $^\dagger$ | 0.35 | -- | 0.6767 | -- | -- | [ZTF J1901+5309: a 40.6-min orbital period eclipsing double white dwarf system](https://doi.org/10.1093/mnrasl/slaa044) | 2020 |
+| 153 | SDSS J133725.26+395237.7 $\dagger$ | 0.51 | -- | 1.65 | -- | 0.32 | [A 99 minute double-lined white dwarf binary from SDSS-V](https://doi.org/10.3847/1538-4357/ac2145) | 2021 |
+| 154 | PG 1632+177 $^\dagger$ | 0.392 | 0.06| 49.2 | -- | 0.526 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) | 2021 |
+| 155 | WD 1534+503 $^\dagger$ | 0.392 | 0.06| 17.04 | -- | 0.617 | [Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin](https://doi.org/10.1093/mnras/stab439) | 2021 |
 | 156 | WD J022558.21−692025.38 | 0.40 | 0.04 | 0.7833 | -- | 0.28 | [An eclipsing 47 min double white dwarf binary at 400 pc](https://doi.org/10.1093/mnras/stad2347) | 2023 |
 | 157 | J033847.06+413424.2 | 0.22 | -- | 3.0075 | -- | >0.6 | [Orbital parameters for an ELM white dwarf with a white dwarf companion: LAMOST J033847.06+413424.2](https://doi.org/10.1093/mnras/stad3100) | 2023 |
-| 158 | J210220.456−414501.736 | 0.32 | -- | 2.4 | -- | 0.39 | [The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries](https://doi.org/10.3847/1538-4357/acd187) | 2023 |
+| 158 | J210220.456−414501.736 $^\dagger$ | 0.32 | -- | 2.4 | -- | 0.39 | [The ELM Survey South. II. Two Dozen New Low-mass White Dwarf Binaries](https://doi.org/10.3847/1538-4357/acd187) | 2023 |
 
