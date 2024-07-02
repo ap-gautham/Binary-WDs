@@ -37,6 +37,7 @@ Based on this we find that currently there are 238 DWD binaries and 151 DWD bina
 | 1* | SDSS J084952.47+471247.7 + SDSS J084952.87+471249.4 |Component masses of young, wide, non-magnetic white dwarf binaries in the Sloan Digital Sky Survey Data Release 7.|2014|[10.1093/mnras/stu464](https://doi.org/10.1093/mnras/stu464)| Wide binary |
 | 1 | WD 1242–105 | A NEW MERGING DOUBLE DEGENERATE BINARY IN THE SOLAR NEIGHBORHOOD | 2015 | [10.1088/0004-6256/149/5/176](http://doi.org/10.1088/0004-6256/149/5/176) |
 | 1* | WD0648+641 |The binarity of the local white dwarf population.|2017|[10.1051/0004-6361/201629978](https://doi.org/10.1051/0004-6361/201629978)| Resolved binary |
+| 1 | NLTT 12758 | A fast spinning magnetic white dwarf in the double-degenerate,super-Chandrasekhar system NLTT 12758]|2017|[10.1093/mnras/stw3149](http://doi.org/10.1093/mnras/stw3149) | Double lined |
 | 3 + 1** + 66* | -- | Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae | 2017 | [10.1093/mnras/stx430](https://doi.org/10.1093/mnras/stx430) | 3 confirmed DWD binaries, 1 WD binary with uncertain companion, 66 DWD candidates |
 | 1 | PTF J053332.05+020911.6 |Orbital decay in a 20 minute orbital period detached binary with a hydrogen-poor low-mass white dwarf.|2019|[10.3847/2041-8213/ab53e5](https://doi.org/10.3847/2041-8213/ab53e5)| -- |
 | 1 | ZTF J1539 + 5027 | General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system | 2019 | [10.1038/s41586-019-1403-0](https://doi.org/10.1038/s41586-019-1403-0)
@@ -99,6 +100,7 @@ Based on this we find that currently there are 238 DWD binaries and 151 DWD bina
 | 37 | CSS 41177 (J1005+2249) $^\dagger$ | 0.378 | 0.002 | 2.784 | -- | 0.316 | [Precise parameters for both white dwarfs in the eclipsing binary CSS 41177](https://doi.org/10.1093/mnras/stt2453) | 2014 |
 | 38 | SDSS J074511.56+194926.5 | 0.164 | 0.003 | 2.6975 | -- | -- | [SDSS J074511.56+194926.5: discovery of a metal-rich and tidally distorted extremely low mass white dwarf](https://doi.org/10.1088/0004-637X/781/2/104) | 2014 |
 | 39 | WD 1242–105 | 0.56 | 0.03 | 2.85 | -- | 0.39 | [A NEW MERGING DOUBLE DEGENERATE BINARY IN THE SOLAR NEIGHBORHOOD ](http://doi.org/10.1088/0004-6256/149/5/176) | 2015 |
+| 39 | NLTT 12758 $^\dagger$ | 0.69 | 0..05 | 27.6 | -- | 0.83 | [A fast spinning magnetic white dwarf in the double-degenerate,super-Chandrasekhar system NLTT 12758](HTTP://doi.org/10.1093/mnras/stw3149) | 2017 |
 | 40 | J123549.86+154319.0 | 0.363 | -- | 0.8512 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 41 | J171125.53+272405.1 | 0.672 | -- | 1.248 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
 | 42 | J234902.80+355301.0 | 0.386 | -- | 4.1699 | -- | -- | [Using large spectroscopic surveys to test the double degenerate model for Type Ia supernovae](https://doi.org/10.1093/mnras/stx430) | 2017 |
